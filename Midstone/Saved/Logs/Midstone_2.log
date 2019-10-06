@@ -1,0 +1,873 @@
+﻿Log file open, 09/27/19 11:55:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Midstone
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.103335
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=docdodo -epicuserid=ffbd1d302be94469aa72c29a09ea8a3b -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:934][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.09.27-15.55.50:934][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.09.27-15.55.50:935][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:935][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:938][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:938][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.09.27-15.55.50:938][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.09.27-15.55.50:938][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:938][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.09.27-15.55.50:938][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:938][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.09.27-15.55.50:938][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.09.27-15.55.50:939][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.09.27-15.55.50:940][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:941][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.09.27-15.55.50:941][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.09.27-15.55.50:941][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-15.55.50:941][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.09.27-15.55.50:955][  0]LogHAL: Display: Platform has ~ 12 GB [12763230208 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.09.27-15.55.50:955][  0]LogInit: Going up to parent DeviceProfile []
+[2019.09.27-15.55.50:955][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.09.27-15.55.50:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.09.27-15.55.50:956][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Scalability.ini]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.09.27-15.55.50:957][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.09.27-15.55.50:966][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.09.27-15.55.50:966][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.09.27-15.55.50:966][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2019.09.27-15.55.50:966][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Config/Windows/Engine.ini]
+[2019.09.27-15.55.50:966][  0]LogInit: Computer: DESKTOP-5BSH90I
+[2019.09.27-15.55.50:966][  0]LogInit: User: rober
+[2019.09.27-15.55.50:966][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.09.27-15.55.50:966][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.09.27-15.55.50:966][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.09.27-15.55.50:966][  0]LogMemory: Platform Memory Stats for Windows
+[2019.09.27-15.55.50:967][  0]LogMemory: Process Physical Memory: 101.41 MB used, 101.41 MB peak
+[2019.09.27-15.55.50:967][  0]LogMemory: Process Virtual Memory: 100.70 MB used, 100.70 MB peak
+[2019.09.27-15.55.50:967][  0]LogMemory: Physical Memory: 5720.66 MB used,  6451.30 MB free, 12171.96 MB total
+[2019.09.27-15.55.50:967][  0]LogMemory: Virtual Memory: 4684.63 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.09.27-15.55.51:579][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.09.27-15.55.51:611][  0]LogInit: Using OS detected language (en-US).
+[2019.09.27-15.55.51:611][  0]LogInit: Using OS detected locale (en-CA).
+[2019.09.27-15.55.51:611][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.09.27-15.55.52:045][  0]LogInit: Setting process to per monitor DPI aware
+[2019.09.27-15.55.52:127][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.09.27-15.55.52:127][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.09.27-15.55.57:015][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-15.55.57:015][  0]LogD3D11RHI: D3D11 adapters:
+[2019.09.27-15.55.57:148][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.09.27-15.55.57:148][  0]LogD3D11RHI:       4021/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.09.27-15.55.57:169][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.09.27-15.55.57:169][  0]LogD3D11RHI:       128/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.09.27-15.55.57:171][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.09.27-15.55.57:171][  0]LogD3D11RHI:       0/0/6085 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.09.27-15.55.57:171][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.09.27-15.55.57:207][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.09.27-15.55.57:207][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.09.27-15.55.57:207][  0]LogWindows: EnumDisplayDevices:
+[2019.09.27-15.55.57:207][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.09.27-15.55.57:207][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.09.27-15.55.57:208][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.09.27-15.55.57:208][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.09.27-15.55.57:208][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.09.27-15.55.57:208][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.09.27-15.55.57:208][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.09.27-15.55.57:208][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.09.27-15.55.57:256][  0]LogD3D11RHI: Async texture creation enabled
+[2019.09.27-15.55.57:274][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.09.27-15.55.57:849][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.09.27-15.55.57:860][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.09.27-15.55.57:872][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.09.27-15.55.57:884][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.09.27-15.55.57:907][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.09.27-15.55.57:921][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.09.27-15.55.57:933][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.09.27-15.55.57:945][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.09.27-15.55.57:952][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.09.27-15.55.58:002][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.09.27-15.55.58:003][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.09.27-15.55.58:188][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.09.27-15.55.58:188][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.09.27-15.55.58:205][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.09.27-15.55.58:205][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.09.27-15.55.58:215][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.09.27-15.55.58:222][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.09.27-15.55.58:232][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.09.27-15.55.58:246][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.09.27-15.55.58:281][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.09.27-15.55.58:281][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.09.27-15.55.58:281][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.09.27-15.55.58:296][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.09.27-15.55.58:385][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Intermediate/Shaders/WorkingDirectory/16740/).
+[2019.09.27-15.55.58:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rober/AppData/Local/Temp/UnrealShaderWorkingDir/BE47F7124009ABE601B420B526F7380F/'.
+[2019.09.27-15.55.58:389][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.09.27-15.55.58:389][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.09.27-15.55.58:389][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.09.27-15.56.00:899][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.09.27-15.56.00:962][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/rober/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.27-15.56.00:962][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rober/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.09.27-15.56.00:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.09.27-15.56.00:962][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.09.27-15.56.00:962][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.27-15.56.00:962][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.09.27-15.56.00:973][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.09.27-15.56.00:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.09.27-15.56.00:974][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.09.27-15.56.00:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.09.27-15.56.00:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.09.27-15.56.00:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.09.27-15.56.01:031][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.09.27-15.56.01:034][  0]LogSlate: Using FreeType 2.6.0
+[2019.09.27-15.56.01:044][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.09.27-15.56.01:427][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2019.09.27-15.56.01:736][  0]LogInit: Selected Device Profile: [Windows]
+[2019.09.27-15.56.02:032][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.09.27-15.56.02:032][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.09.27-15.56.02:032][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.09.27-15.56.02:032][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.09.27-15.56.02:032][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.09.27-15.56.02:044][  0]LogNetVersion: Midstone 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3331639806)
+[2019.09.27-15.56.02:612][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 1 prioritized culture(s) in 0.077275 seconds
+[2019.09.27-15.56.02:621][  0]LogUObjectArray: 43469 objects as part of root set at end of initial load.
+[2019.09.27-15.56.02:621][  0]LogUObjectAllocator: 7553416 out of 0 bytes used by permanent object pool.
+[2019.09.27-15.56.02:621][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.09.27-15.56.09:109][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.09.27-15.56.09:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.09.27-15.56.09:322][  0]SourceControl: Source control is disabled
+[2019.09.27-15.56.09:322][  0]SourceControl: Source control is disabled
+[2019.09.27-15.56.09:323][  0]SourceControl: Source control is disabled
+[2019.09.27-15.56.09:324][  0]SourceControl: Source control is disabled
+[2019.09.27-15.56.10:149][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.09.27-15.56.10:247][  0]LogOcInput: OculusInput pre-init called
+[2019.09.27-15.56.10:254][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.09.27-15.56.10:254][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.09.27-15.56.10:483][  0]LogEngine: Initializing Engine...
+[2019.09.27-15.56.10:484][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.09.27-15.56.10:485][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.09.27-15.56.11:214][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.09.27-15.56.11:248][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.09.27-15.56.11:258][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.09.27-15.56.11:371][  0]LogInit: FAudioDevice initialized.
+[2019.09.27-15.56.11:371][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.09.27-15.56.11:632][  0]LogDerivedDataCache: Saved boot cache 0.26s 82MB C:/Users/rober/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.09.27-15.56.11:657][  0]LogInit: Texture streaming: Enabled
+[2019.09.27-15.56.11:689][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.09.27-15.56.11:772][  0]LogInit: Transaction tracking system initialized
+[2019.09.27-15.56.11:827][  0]BlueprintLog: New page: Editor Load
+[2019.09.27-15.56.11:960][  0]LocalizationService: Localization service is disabled
+[2019.09.27-15.56.13:135][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/' took 0.01s
+[2019.09.27-15.56.13:135][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.09.27-15.56.13:135][  0]LogCook: Display: Mobile HDR setting 1
+[2019.09.27-15.56.13:544][  0]SourceControl: Source control is disabled
+[2019.09.27-15.56.13:545][  0]Cmd: MAP LOAD FILE="../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.09.27-15.56.13:545][  0]LightingResults: New page: Lighting Build
+[2019.09.27-15.56.13:549][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-15.56.13:550][  0]MapCheck: New page: Map Check
+[2019.09.27-15.56.13:550][  0]LightingResults: New page: Lighting Build
+[2019.09.27-15.56.13:624][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.09.27-15.56.14:046][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.09.27-15.56.14:056][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.09.27-15.56.14:087][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2019.09.27-15.56.14:088][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.09.27-15.56.14:088][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2019.09.27-15.56.14:088][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.543
+[2019.09.27-15.56.14:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-15.56.14:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-15.56.14:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-15.56.14:281][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.09.27-15.56.14:293][  0]LogCollectionManager: Loaded 0 collections in 0.002988 seconds
+[2019.09.27-15.56.14:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/Collections/' took 0.00s
+[2019.09.27-15.56.14:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/Developers/rober/Collections/' took 0.00s
+[2019.09.27-15.56.14:300][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/Collections/' took 0.00s
+[2019.09.27-15.56.14:300][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2019.09.27-15.56.14:308][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2999 classes and 698 folders.
+[2019.09.27-15.56.14:318][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-15.56.14:502][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-15.56.14:508][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.09.27-15.56.14:591][  0]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.09.27-15.56.14:595][  0]LogSlate: Took 0.000445 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.09.27-15.56.14:608][  0]LogSlate: Took 0.005641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.09.27-15.56.14:685][  0]LogRenderer: Reallocating scene render targets to support 964x480 Format 9 NumSamples 1 (Frame:1).
+[2019.09.27-15.56.14:848][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.09.27-15.56.14:848][  0]LogLoad: (Engine Initialization) Total time: 28.02 seconds
+[2019.09.27-15.56.14:848][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.09.27-15.56.14:921][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.09.27-15.56.14:932][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-15.56.15:354][  5]LogAssetRegistry: Asset discovery search completed in 13.9275 seconds
+[2019.09.27-15.56.15:357][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.09.27-15.56.15:357][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000050 seconds (updated 0 objects)
+[2019.09.27-15.56.59:997][408]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.09.27-15.57.04:215][660]LogSlate: Window 'Plugins' being destroyed
+[2019.09.27-15.57.04:220][660]LogSlate: Window 'Plugins' being destroyed
+[2019.09.27-15.57.04:221][660]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.09.27-15.57.05:981][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.09.27-15.58.44:167][897]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2019.09.27-15.59.06:014][508]LogSlate: Window 'Pick a starting point for your emitter' being destroyed
+[2019.09.27-15.59.35:382][459]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2019.09.27-15.59.35:642][459]LogMaterial: Display: Missing cached shader map for material DefaultRibbonMaterial, compiling. 
+[2019.09.27-15.59.35:921][459]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.09.27-15.59.35:921][459]LogTexture: Display: Building textures: Texture2D_0 (DXT1, 512X512)
+[2019.09.27-15.59.35:921][459]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2019.09.27-15.59.35:921][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2019.09.27-15.59.35:921][459]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2019.09.27-15.59.35:921][459]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2019.09.27-15.59.35:921][459]LogNiagaraEditor: Verbose: '/Niagara/DefaultAssets/Templates/Systems/DirectionalBurst' Precompile took 0.063172 sec.
+[2019.09.27-15.59.35:923][459]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:DirectionalBurst_4.UpdateScript_1 ...................................................................
+[2019.09.27-15.59.35:923][459]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.SpawnScript ...................................................................
+[2019.09.27-15.59.35:923][459]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.UpdateScript ...................................................................
+[2019.09.27-15.59.35:923][459]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:DirectionalBurst_4.SpawnScript_0 ...................................................................
+[2019.09.27-15.59.35:923][459]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.EventScript_0 ...................................................................
+[2019.09.27-15.59.35:923][459]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:SystemSpawnScript ...................................................................
+[2019.09.27-15.59.36:329][483]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:DirectionalBurst_4.UpdateScript_1 took 0.395438 sec (0.011572/0.383675)... Status NCS_UpToDate
+[2019.09.27-15.59.36:329][483]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:SystemUpdateScript ...................................................................
+[2019.09.27-15.59.36:428][489]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.SpawnScript took 0.493508 sec (0.018531/0.098171)... Status NCS_UpToDate
+[2019.09.27-15.59.36:495][493]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.UpdateScript took 0.570037 sec (0.022497/0.076519)... Status NCS_UpToDate
+[2019.09.27-15.59.36:914][518]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:DirectionalBurst_4.SpawnScript_0 took 0.975613 sec (0.045575/0.405596)... Status NCS_UpToDate
+[2019.09.27-15.59.36:984][522]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.EventScript_0 took 1.045521 sec (0.047407/0.070005)... Status NCS_UpToDate
+[2019.09.27-15.59.37:049][526]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:SystemSpawnScript took 1.119385 sec (0.052173/0.073987)... Status NCS_UpToDate
+[2019.09.27-15.59.37:251][537]LogNiagaraEditor: Compiling System NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:SystemUpdateScript took 0.929228 sec (0.014780/0.206147)... Status NCS_UpToDate
+[2019.09.27-15.59.40:919][757]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2019.09.27-15.59.41:166][772]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.09.27-15.59.41:516][793]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.09.27-15.59.43:228][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.09.27-15.59.44:287][959]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2019.09.27-15.59.44:707][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.09.27-15.59.45:173][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2019.09.27-15.59.45:308][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.09.27-15.59.45:638][ 40]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.09.27-15.59.45:771][ 48]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.09.27-15.59.46:069][ 66]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.09.27-15.59.48:633][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:DirectionalBurst_4.SpawnScript_0' was built locally..
+[2019.09.27-15.59.48:635][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:DirectionalBurst_4.UpdateScript_1' was built locally..
+[2019.09.27-15.59.48:636][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.SpawnScript' was built locally..
+[2019.09.27-15.59.48:636][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.UpdateScript' was built locally..
+[2019.09.27-15.59.48:636][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:LocationBasedRibbon_6.EventScript_0' was built locally..
+[2019.09.27-15.59.48:637][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:SystemSpawnScript' was built locally..
+[2019.09.27-15.59.48:637][212]LogNiagara: UNiagraScript 'NiagaraScript /Niagara/DefaultAssets/Templates/Systems/DirectionalBurst.DirectionalBurst:SystemUpdateScript' was built locally..
+[2019.09.27-15.59.48:757][212]LogNiagaraEditor: Verbose: '/Game/FX/JumpP_sys' Precompile took 0.059425 sec.
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.SpawnScript_0' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.UpdateScript_1' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.SpawnScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.UpdateScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EventScript_0' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:758][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:825][212]LogNiagaraEditor: Verbose: '/Game/FX/JumpP_sys' Precompile took 0.061449 sec.
+[2019.09.27-15.59.48:825][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.SpawnScript_0' is in-sync skipping compile..
+[2019.09.27-15.59.48:825][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.UpdateScript_1' is in-sync skipping compile..
+[2019.09.27-15.59.48:825][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.EmitterSpawnScript_2' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:DirectionalBurst_4.EmitterUpdateScript_3' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.SpawnScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.UpdateScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EventScript_0' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-15.59.48:826][212]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.01.36:963][697]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.09.27-16.01.36:973][697]LogAssetEditorManager: Opening Asset editor for NiagaraEmitter /Game/FX/JumpP.JumpP
+[2019.09.27-16.01.38:067][697]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset!
+[2019.09.27-16.01.38:276][697]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.040201 sec.
+[2019.09.27-16.01.38:282][697]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2019.09.27-16.01.38:282][697]63028_NiagaraSystem_0_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2019.09.27-16.01.38:304][697]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2019.09.27-16.01.38:366][697]LogRenderer: Reallocating scene render targets to support 964x536 Format 9 NumSamples 1 (Frame:1).
+[2019.09.27-16.01.38:396][697]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 0.118701 sec (0.006702/0.111908)... Status NCS_UpToDate
+[2019.09.27-16.01.38:425][698]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2019.09.27-16.01.38:461][700]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 0.157101 sec (0.003014/0.065223)... Status NCS_UpToDate
+[2019.09.27-16.01.38:471][700]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2019.09.27-16.01.38:576][701]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.01.46:608][175]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034852 sec.
+[2019.09.27-16.01.46:609][175]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.01.46:609][175]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.01.46:609][175]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.01.46:609][175]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.01.46:609][175]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.01.46:609][175]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.01.46:938][193]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.324892 sec (0.017246/0.307385)... Status NCS_UpToDate
+[2019.09.27-16.01.46:940][193]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.01.47:051][200]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.438726 sec (0.022249/0.114037)... Status NCS_UpToDate
+[2019.09.27-16.01.47:058][200]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.01.47:108][201]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.01.52:018][492]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.047076 sec.
+[2019.09.27-16.01.52:019][492]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.01.52:019][492]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.01.52:019][492]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.01.52:019][492]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.01.52:019][492]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.01.52:019][492]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.01.52:322][509]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.284781 sec (0.017082/0.267535)... Status NCS_UpToDate
+[2019.09.27-16.01.52:323][509]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.01.52:407][514]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.385883 sec (0.021142/0.100814)... Status NCS_UpToDate
+[2019.09.27-16.01.52:407][514]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.01.52:464][515]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.02.06:748][347]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.032740 sec.
+[2019.09.27-16.02.06:748][347]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' is in-sync skipping compile..
+[2019.09.27-16.02.06:748][347]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' is in-sync skipping compile..
+[2019.09.27-16.02.06:780][348]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2019.09.27-16.02.06:780][348]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2019.09.27-16.02.06:812][350]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 0.057139 sec (0.003006/0.054045)... Status NCS_UpToDate
+[2019.09.27-16.02.06:816][350]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2019.09.27-16.02.06:928][357]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 0.176362 sec (0.009388/0.119291)... Status NCS_UpToDate
+[2019.09.27-16.02.06:932][357]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2019.09.27-16.02.06:980][358]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.02.39:411][276]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034621 sec.
+[2019.09.27-16.02.39:411][276]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' is in-sync skipping compile..
+[2019.09.27-16.02.39:411][276]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' is in-sync skipping compile..
+[2019.09.27-16.02.39:447][277]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript ...................................................................
+[2019.09.27-16.02.39:447][277]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript ...................................................................
+[2019.09.27-16.02.39:527][282]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript took 0.112984 sec (0.007199/0.105661)... Status NCS_UpToDate
+[2019.09.27-16.02.39:535][282]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' was built locally..
+[2019.09.27-16.02.39:608][287]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript took 0.189540 sec (0.010348/0.077166)... Status NCS_UpToDate
+[2019.09.27-16.02.39:615][287]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' was built locally..
+[2019.09.27-16.02.39:663][288]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.06.24:921][595]LogNiagaraEditor: Saving and Compiling NiagaraEmitter JumpP
+[2019.09.27-16.06.24:986][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/JumpP" FILE="../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP.uasset" SILENT=true
+[2019.09.27-16.06.25:066][595]LogSavePackage: Moving '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/JumpP1868643C415C891C4354D98490047082.tmp' to '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP.uasset'
+[2019.09.27-16.06.38:472][385]LogSlate: Window 'Color Picker' being destroyed
+[2019.09.27-16.07.08:980][210]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.033988 sec.
+[2019.09.27-16.07.08:981][210]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.08:981][210]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.07.08:981][210]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.08:981][210]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.07.08:981][210]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.08:981][210]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.09:265][227]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.281992 sec (0.019278/0.262523)... Status NCS_UpToDate
+[2019.09.27-16.07.09:269][227]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.07.09:361][233]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.378712 sec (0.025997/0.096845)... Status NCS_UpToDate
+[2019.09.27-16.07.09:368][233]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.07.09:424][234]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.07.13:108][453]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034331 sec.
+[2019.09.27-16.07.13:108][453]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.13:108][453]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.07.13:108][453]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.13:108][453]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.07.13:108][453]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.13:109][453]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.13:410][471]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.297441 sec (0.015577/0.281682)... Status NCS_UpToDate
+[2019.09.27-16.07.13:411][471]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.07.13:510][477]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.396820 sec (0.019785/0.099453)... Status NCS_UpToDate
+[2019.09.27-16.07.13:512][477]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.07.13:567][478]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.07.32:395][604]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034984 sec.
+[2019.09.27-16.07.32:396][604]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.32:396][604]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.07.32:396][604]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.32:396][604]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.07.32:396][604]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.32:396][604]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.32:698][622]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.291874 sec (0.015486/0.276231)... Status NCS_UpToDate
+[2019.09.27-16.07.32:700][622]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.07.32:797][628]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.393746 sec (0.020722/0.101938)... Status NCS_UpToDate
+[2019.09.27-16.07.32:801][628]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.07.32:855][629]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.07.37:906][930]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034494 sec.
+[2019.09.27-16.07.37:906][930]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.37:906][930]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.37:906][930]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.07.37:906][930]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.07.37:906][930]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.07.37:938][932]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.07.38:024][937]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.107917 sec (0.004537/0.103219)... Status NCS_UpToDate
+[2019.09.27-16.07.38:025][937]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.07.38:289][953]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.352767 sec (0.019921/0.263925)... Status NCS_UpToDate
+[2019.09.27-16.07.38:292][953]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.07.38:348][954]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.08.29:691][ 25]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.09.27-16.10.43:916][940]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034341 sec.
+[2019.09.27-16.10.43:916][940]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.10.43:916][940]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.10.43:916][940]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.10.43:916][940]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.10.43:916][940]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.10.43:916][940]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.10.44:234][959]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.309624 sec (0.015223/0.294221)... Status NCS_UpToDate
+[2019.09.27-16.10.44:237][959]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.10.44:333][965]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.409864 sec (0.020359/0.100300)... Status NCS_UpToDate
+[2019.09.27-16.10.44:337][965]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.10.44:388][966]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.12.17:875][560]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034997 sec.
+[2019.09.27-16.12.17:876][560]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.12.17:876][560]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.12.17:876][560]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.12.17:876][560]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.12.17:876][560]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.12.17:876][560]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.12.18:210][580]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript took 0.325101 sec (0.019283/0.305582)... Status NCS_UpToDate
+[2019.09.27-16.12.18:212][580]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.12.18:308][586]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript took 0.422475 sec (0.024989/0.097483)... Status NCS_UpToDate
+[2019.09.27-16.12.18:314][586]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.12.18:365][587]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.12.45:344][199]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.034831 sec.
+[2019.09.27-16.12.45:344][199]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.12.45:345][199]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.12.45:345][199]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.12.45:345][199]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.12.45:420][200]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.12.47:938][348]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.035527 sec.
+[2019.09.27-16.12.47:938][348]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.12.47:938][348]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.12.47:939][348]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.12.47:939][348]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.12.48:016][349]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.13.07:986][456]LogNiagaraEditor: Saving and Compiling NiagaraEmitter JumpP
+[2019.09.27-16.13.08:046][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/JumpP" FILE="../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP.uasset" SILENT=true
+[2019.09.27-16.13.08:492][456]LogSavePackage: Moving '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/JumpP3876683E4E220A295B58908B54B72F0E.tmp' to '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP.uasset'
+[2019.09.27-16.13.08:980][475]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.038336 sec.
+[2019.09.27-16.13.08:981][475]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.SpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.08:981][475]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.UpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.08:981][475]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.08:981][475]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.08:981][475]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.08:981][475]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_0:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.09:026][475]63028_NiagaraSystem_0_MessageLog: System successfully compiled.
+[2019.09.27-16.13.10:205][539]LogSlate: Window 'JumpP' being destroyed
+[2019.09.27-16.13.10:212][539]LogSlate: Window 'JumpP' being destroyed
+[2019.09.27-16.13.10:212][539]LogNiagaraEditor: Warning: Cleanup System view model 000001F193BCE800
+[2019.09.27-16.13.13:267][539]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-16.13.13:289][539]LogNiagaraEditor: Warning: Cleanup System view model 000001F193BCE800
+[2019.09.27-16.13.13:289][539]LogNiagaraEditor: Warning: Deleting System view model 000001F193BCE800
+[2019.09.27-16.13.13:303][539]LogAssetEditorManager: Opening Asset editor for NiagaraEmitter /Game/FX/JumpP.JumpP
+[2019.09.27-16.13.13:357][539]LogNiagara: Warning: Failed to activate Niagara System due to invalid asset!
+[2019.09.27-16.13.13:437][539]77605_NiagaraSystem_1_MessageLog: System compile status unknown with 0 warning(s) and 0 error(s).
+[2019.09.27-16.13.13:476][539]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.039222 sec.
+[2019.09.27-16.13.13:477][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_1:JumpP.SpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.13:477][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_1:JumpP.UpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.13:477][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_1:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.13:477][539]LogNiagara: Script 'NiagaraScript /Engine/Transient.NiagaraSystem_1:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.13:491][539]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript ...................................................................
+[2019.09.27-16.13.13:491][539]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript ...................................................................
+[2019.09.27-16.13.13:557][542]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript took 0.068600 sec (0.003824/0.064510)... Status NCS_UpToDate
+[2019.09.27-16.13.13:560][542]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemSpawnScript' was built locally..
+[2019.09.27-16.13.13:678][547]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript took 0.199963 sec (0.010588/0.131462)... Status NCS_UpToDate
+[2019.09.27-16.13.13:678][547]LogNiagara: UNiagraScript 'NiagaraScript /Engine/Transient.NiagaraSystem_1:SystemUpdateScript' was built locally..
+[2019.09.27-16.13.13:743][549]77605_NiagaraSystem_1_MessageLog: System successfully compiled.
+[2019.09.27-16.13.14:868][616]LogSlate: Window 'JumpP' being destroyed
+[2019.09.27-16.13.14:875][616]LogSlate: Window 'JumpP' being destroyed
+[2019.09.27-16.13.14:875][616]LogNiagaraEditor: Warning: Cleanup System view model 000001F193BCE400
+[2019.09.27-16.13.14:891][616]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-16.13.14:903][616]LogNiagaraEditor: Warning: Cleanup System view model 000001F193BCE400
+[2019.09.27-16.13.14:903][616]LogNiagaraEditor: Warning: Deleting System view model 000001F193BCE400
+[2019.09.27-16.13.16:888][735]LogAssetEditorManager: Opening Asset editor for NiagaraSystem /Game/FX/JumpP_sys.JumpP_sys
+[2019.09.27-16.13.17:001][735]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.13.17:072][736]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.13.23:640][ 50]LogNiagaraEditor: Verbose: '/Game/FX/JumpP_sys' Precompile took 0.017505 sec.
+[2019.09.27-16.13.23:640][ 50]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.SpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.23:640][ 50]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.UpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.23:640][ 50]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.23:640][ 50]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.23:640][ 50]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:LocationBasedRibbon_6.EventScript_0' is in-sync skipping compile..
+[2019.09.27-16.13.23:666][ 51]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript ...................................................................
+[2019.09.27-16.13.23:691][ 51]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript took 0.050813 sec (0.001991/0.048779)... Status NCS_UpToDate
+[2019.09.27-16.13.23:724][ 52]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript' was built locally..
+[2019.09.27-16.13.24:071][ 70]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript ...................................................................
+[2019.09.27-16.13.24:190][ 77]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript took 0.115519 sec (0.005034/0.110299)... Status NCS_UpToDate
+[2019.09.27-16.13.24:191][ 77]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript' was built locally..
+[2019.09.27-16.13.24:239][ 79]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.13.26:677][224]LogNiagaraEditor: Verbose: '/Game/FX/JumpP_sys' Precompile took 0.002517 sec.
+[2019.09.27-16.13.26:678][224]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript ...................................................................
+[2019.09.27-16.13.26:678][224]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript ...................................................................
+[2019.09.27-16.13.26:740][228]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript took 0.058793 sec (0.000321/0.058408)... Status NCS_UpToDate
+[2019.09.27-16.13.26:747][228]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript' was built locally..
+[2019.09.27-16.13.26:804][232]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript took 0.122856 sec (0.001626/0.064078)... Status NCS_UpToDate
+[2019.09.27-16.13.26:813][232]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript' was built locally..
+[2019.09.27-16.13.26:845][234]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.13.35:990][775]LogNiagaraEditor: Verbose: '/Game/FX/JumpP_sys' Precompile took 0.035065 sec.
+[2019.09.27-16.13.35:990][775]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.SpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.35:990][775]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.UpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.35:990][775]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.13.35:990][775]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.13.35:992][775]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript ...................................................................
+[2019.09.27-16.13.36:052][776]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript took 0.050624 sec (0.002856/0.047716)... Status NCS_UpToDate
+[2019.09.27-16.13.36:054][776]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript' was built locally..
+[2019.09.27-16.13.36:413][793]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript ...................................................................
+[2019.09.27-16.13.36:536][800]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript took 0.134511 sec (0.006632/0.127786)... Status NCS_UpToDate
+[2019.09.27-16.13.36:538][800]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript' was built locally..
+[2019.09.27-16.13.36:602][802]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.15.21:899][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.09.27-16.16.26:502][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/JumpP_sys" FILE="../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP_sys.uasset" SILENT=true
+[2019.09.27-16.16.26:639][555]LogSavePackage: Moving '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/JumpP_sys06A047F141F12A1E03358782DB7358E6.tmp' to '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP_sys.uasset'
+[2019.09.27-16.16.27:434][596]LogSlate: Window 'JumpP_sys' being destroyed
+[2019.09.27-16.16.27:439][596]LogSlate: Window 'JumpP_sys' being destroyed
+[2019.09.27-16.16.27:440][596]LogNiagaraEditor: Warning: Cleanup System view model 000001F206168C00
+[2019.09.27-16.16.27:456][596]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-16.16.27:472][596]LogNiagaraEditor: Warning: Cleanup System view model 000001F206168C00
+[2019.09.27-16.16.27:472][596]LogNiagaraEditor: Warning: Deleting System view model 000001F206168C00
+[2019.09.27-16.17.08:586][904]LogAssetEditorManager: Opening Asset editor for NiagaraScript /Game/FX/JumpScript.JumpScript
+[2019.09.27-16.17.08:614][904]MaterialEditorStats: LastOpCount: 0
+[2019.09.27-16.17.08:646][904]617242A04FD8BA1121CE3085317D4CA5_JumpScript_MessageLog: Script compile status unknown with 0 warning(s) and 0 error(s).
+[2019.09.27-16.17.08:657][904]LogSlate: Took 0.006604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.09.27-16.17.14:408][247]LogNiagaraEditor: Verbose: '/Engine/Transient' Precompile took 0.000306 sec.
+[2019.09.27-16.17.14:408][247]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.JumpScript ...................................................................
+[2019.09.27-16.17.14:444][247]LogNiagaraEditor: Compiling System NiagaraScript /Engine/Transient.JumpScript took 0.036106 sec (0.000171/0.035884)... Status NCS_UpToDate
+[2019.09.27-16.17.14:446][247]MaterialEditorStats: LastOpCount: 0
+[2019.09.27-16.17.14:446][247]617242A04FD8BA1121CE3085317D4CA5_JumpScript_MessageLog: Script successfully compiled.
+[2019.09.27-16.18.23:231][339]LogNiagaraEditor: Saving and Compiling NiagaraScript JumpScript
+[2019.09.27-16.18.23:249][339]LogNiagara: Script 'NiagaraScript /Engine/Transient.JumpScript' is in-sync skipping compile..
+[2019.09.27-16.18.23:279][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/JumpScript" FILE="../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpScript.uasset" SILENT=true
+[2019.09.27-16.18.23:289][339]LogSavePackage: Moving '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/JumpScript9C77D8D7462C097339E3FCA975BB7BB0.tmp' to '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpScript.uasset'
+[2019.09.27-16.18.24:799][429]LogSlate: Window 'JumpScript' being destroyed
+[2019.09.27-16.18.24:804][429]LogSlate: Window 'JumpScript' being destroyed
+[2019.09.27-16.18.25:973][498]LogAssetEditorManager: Opening Asset editor for NiagaraSystem /Game/FX/JumpP_sys.JumpP_sys
+[2019.09.27-16.18.26:084][498]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.18.56:675][216]LogNiagaraEditor: Verbose: '/Game/FX/JumpP_sys' Precompile took 0.035503 sec.
+[2019.09.27-16.18.56:676][216]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.EmitterSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.18.56:676][216]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.EmitterUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.18.56:676][216]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.UpdateScript ...................................................................
+[2019.09.27-16.18.56:676][216]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemSpawnScript' is in-sync skipping compile..
+[2019.09.27-16.18.56:676][216]LogNiagara: Script 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:SystemUpdateScript' is in-sync skipping compile..
+[2019.09.27-16.18.56:704][217]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.SpawnScript ...................................................................
+[2019.09.27-16.18.56:777][220]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.UpdateScript took 0.096990 sec (0.004088/0.092790)... Status NCS_UpToDate
+[2019.09.27-16.18.56:792][220]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.UpdateScript' was built locally..
+[2019.09.27-16.18.57:042][233]LogNiagaraEditor: Compiling System NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.SpawnScript took 0.343782 sec (0.017392/0.267685)... Status NCS_UpToDate
+[2019.09.27-16.18.57:043][233]LogNiagara: UNiagraScript 'NiagaraScript /Game/FX/JumpP_sys.JumpP_sys:JumpP.SpawnScript' was built locally..
+[2019.09.27-16.18.57:117][235]59407_JumpP_sys_MessageLog: System successfully compiled.
+[2019.09.27-16.19.04:016][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/JumpP_sys" FILE="../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP_sys.uasset" SILENT=true
+[2019.09.27-16.19.04:160][643]LogSavePackage: Moving '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Saved/JumpP_sys9C718FFD486FCE635FF5E7896B1B197C.tmp' to '../../../../../../Users/rober/Desktop/College/GameJam2019/Midstone_unreal/Midstone/Content/FX/JumpP_sys.uasset'
+[2019.09.27-16.19.05:986][745]LogSlate: Window 'JumpP_sys' being destroyed
+[2019.09.27-16.19.05:992][745]LogSlate: Window 'JumpP_sys' being destroyed
+[2019.09.27-16.19.05:992][745]LogNiagaraEditor: Warning: Cleanup System view model 000001F2189C8C00
+[2019.09.27-16.19.06:007][745]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.09.27-16.19.06:023][745]LogNiagaraEditor: Warning: Cleanup System view model 000001F2189C8C00
+[2019.09.27-16.19.06:023][745]LogNiagaraEditor: Warning: Deleting System view model 000001F2189C8C00
+[2019.09.27-16.20.06:440][745]LogWindows: Error: === Critical error: ===
+[2019.09.27-16.20.06:440][745]LogWindows: Error: 
+[2019.09.27-16.20.06:440][745]LogWindows: Error: Fatal error!
+[2019.09.27-16.20.06:440][745]LogWindows: Error: 
+[2019.09.27-16.20.06:440][745]LogWindows: Error: 
+[2019.09.27-16.20.06:469][745]LogExit: Executing StaticShutdownAfterError
+[2019.09.27-16.20.06:505][745]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.09.27-16.20.06:553][745]Log file closed, 09/27/19 12:20:06
